@@ -1,0 +1,12 @@
+Draw Follicle ellipse, then press ENTER.
+Draw Stroma ellipse, then press ENTER.
+Follicle pixel count: 689, Stroma pixel count: 2519
+Original Image CNR: 0.7587610409945522
+Draw Follicle ellipse, then press ENTER.
+Draw Stroma ellipse, then press ENTER.
+Follicle pixel count: 498, Stroma pixel count: 2440
+Filtered Image CNR: 0.8259570911600617
+Draw Follicle ellipse, then press ENTER.
+Draw Stroma ellipse, then press ENTER.
+Follicle pixel count: 891, Stroma pixel count: 2785
+CLAHE Image CNR: 0.8371262046951077
